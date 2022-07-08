@@ -2,13 +2,18 @@
 
 -----------------------------------
 
-:sparkles: I'm a singer that's studying to become a Back-End Developer with {reprograma}. :sparkles:
+:sparkles: I'm a singer studying to become a Back-End Developer with {reprograma}. :sparkles:
 * Pronouns: She/Her
-* I'm Brazilian, living in Fortaleza
+* Brazilian, living in Fortaleza
 * I used to work with theater (and almost finished a theater graduation)
 * I'm in a career transition
 * As many devs, I like coffee and cats
 
-Welcome to my GitHub, come see what I'm learning!
+## Welcome to my GitHub, come see what I'm learning!
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+##
+<div> <a href = "mailto:gabskovisk@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> </div>
+
 
 <img src= "https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif">

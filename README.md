@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there! It's me, Gabriela. 👋
 
-<!--
-**gabskovisk/gabskovisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-----------------------------------
 
-Here are some ideas to get you started:
+:sparkles: I'm a singer that's studying to become a Back-End Developer with {reprograma}. :sparkles:
+* Pronouns: She/Her
+* I'm Brazilian, living in Fortaleza
+* I used to work with theater (and almost finished a theater graduation)
+* I'm in a career transition
+* As many devs, I like coffee and cats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub, come see what I'm learning!
+
+<img src= "https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif">

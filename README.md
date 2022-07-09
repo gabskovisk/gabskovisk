@@ -5,8 +5,8 @@
 :sparkles: I'm a singer studying to become a Back-End Developer with {reprograma}. :sparkles:
 * Pronouns: She/Her
 * Brazilian, living in Fortaleza
-* I used to work with theater (and almost finished a theater graduation)
-* I'm in a career transition
+* Used to work with theater (and almost finished a theater graduation)
+* In a career transition
 * As many devs, I love coffee and cats
 
 ## Welcome to my GitHub, come see what I'm learning!

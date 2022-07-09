@@ -7,7 +7,7 @@
 * Brazilian, living in Fortaleza
 * I used to work with theater (and almost finished a theater graduation)
 * I'm in a career transition
-* As many devs, I like coffee and cats
+* As many devs, I love coffee and cats
 
 ## Welcome to my GitHub, come see what I'm learning!
 
